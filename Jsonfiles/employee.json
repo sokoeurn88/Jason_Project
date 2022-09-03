@@ -1,0 +1,14 @@
+{
+	"firstname":"sokoeurn",
+	"lastname":"chhay",
+	"address":[
+	{
+		"street":"5550 Spring valley road",
+		"city":"Dallas",
+		"state":"Texas"
+	},
+	{"Street":"2219 Crockett dr",
+		"City":"Carrollton",
+		"State":"Texas"}
+	]
+}
